@@ -4,8 +4,8 @@ Adds Buckaroo gateway support to Craft Commerce. Currently supports: Credit Card
 
 ## Requirements
 
-- Craft 3.3 and up
-- Craft Commerce 2 or 3
+- Craft 4 and up
+- Craft Commerce 4 and up
 
 ## Installation
 

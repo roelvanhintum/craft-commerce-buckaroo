@@ -17,9 +17,9 @@
   ],
   "require": {
     "php": "^8.0.2",
-    "craftcms/cms": "^4.0.0-alpha",
-    "craftcms/commerce": "^4.0.0-beta.2",
-    "craftcms/commerce-omnipay": "^4.0.0-beta.2",
+    "craftcms/cms": "^4.0.0-alpha|^5.0.0-beta.1",
+    "craftcms/commerce": "^4.0.0-beta.2|^5.0.0-beta.1",
+    "craftcms/commerce-omnipay": "^4.1.0",
     "born05/omnipay-buckaroo": "~3.0"
   },
   "autoload": {

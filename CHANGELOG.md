@@ -1,5 +1,9 @@
 # Release notes for Buckaroo Gateway for Craft Commerce
 
+## 3.0.0-beta.1 - 2024-05-14
+### Changed
+- Added craft 5 support
+
 ## 2.1.2 - 2023-12-14
 ### Fix
 - Prevent error $websiteKey must not be accessed before initialization. Thanks to @HannahDeWachter
