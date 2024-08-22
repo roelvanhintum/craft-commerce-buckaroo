@@ -1,5 +1,9 @@
 # Release notes for Buckaroo Gateway for Craft Commerce
 
+## 3.0.0-beta.2 - 2024-08-22
+### Changed
+- Updated list of issuers
+
 ## 3.0.0-beta.1 - 2024-05-14
 ### Changed
 - Added craft 5 support

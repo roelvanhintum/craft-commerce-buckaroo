@@ -102,15 +102,17 @@ class IdealGateway extends Gateway
         return [
             'ABNANL2A' => 'ABN AMRO',
             'ASNBNL21' => 'ASN Bank',
-            'BUNQNL2A' => 'Bunq',
+            'BUNQNL2A' => 'bunq',
             'INGBNL2A' => 'ING',
             'KNABNL2H' => 'Knab',
+            'NTSBDEB1' => 'N26',
+            'NNBANL2G' => 'Nationale Nederlanden',
             'RABONL2U' => 'Rabobank',
+            'RBRBNL21' => 'RegioBank',
             'REVOLT21' => 'Revolut',
-            'SNSBNL2A' => 'SNS Bank',
-            'RBRBNL21' => 'SNS Regio Bank',
+            'SNSBNL2A' => 'SNS',
             'TRIONL2U' => 'Triodos Bank',
-            'FVLBNL22' => 'Van Lanschot',
+            'FVLBNL22' => 'Van Lanschot Kempen',
             'BITSNL2A' => 'YourSafe',
         ];
     }
