@@ -1,8 +1,8 @@
 <?php
 
-namespace born05\commerce\buckaroo\base;
+namespace roelvanhintum\commerce\buckaroo\base;
 
-use born05\commerce\buckaroo\Plugin as BuckarooPlugin;
+use roelvanhintum\commerce\buckaroo\Plugin as BuckarooPlugin;
 
 use Craft;
 use craft\commerce\models\payments\BasePaymentForm;

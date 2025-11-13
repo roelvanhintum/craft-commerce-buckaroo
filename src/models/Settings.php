@@ -1,6 +1,6 @@
 <?php
 
-namespace born05\commerce\buckaroo\models;
+namespace roelvanhintum\commerce\buckaroo\models;
 
 use craft\base\Model;
 

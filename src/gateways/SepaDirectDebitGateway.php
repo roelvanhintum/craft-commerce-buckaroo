@@ -1,8 +1,8 @@
 <?php
 
-namespace born05\commerce\buckaroo\gateways;
+namespace roelvanhintum\commerce\buckaroo\gateways;
 
-use born05\commerce\buckaroo\base\Gateway;
+use roelvanhintum\commerce\buckaroo\base\Gateway;
 
 use Craft;
 use Omnipay\Buckaroo\SepaDirectDebitGateway as OmniPaySepaDirectDebitGateway;

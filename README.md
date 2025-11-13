@@ -12,7 +12,7 @@ Adds Buckaroo gateway support to Craft Commerce. Currently supports: Credit Card
 Install from the Plugin Store or composer:
 
 ```bash
-composer require born05/craft-commerce-buckaroo
+composer require roelvanhintum/craft-commerce-buckaroo
 ./craft install/plugin commerce-buckaroo
 ```
 
@@ -31,9 +31,3 @@ return [
     'testMode' => false,
 ];
 ```
-
-## License
-
-Copyright © [Born05](https://www.born05.com/)
-
-See [license](https://github.com/born05/craft-commerce-buckaroo/blob/master/LICENSE.md)

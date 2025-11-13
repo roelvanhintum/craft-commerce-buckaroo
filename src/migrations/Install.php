@@ -1,9 +1,9 @@
 <?php
 
-namespace born05\commerce\buckaroo\migrations;
+namespace roelvanhintum\commerce\buckaroo\migrations;
 
 use Craft;
-use born05\commerce\buckaroo\gateways\Gateway;
+use roelvanhintum\commerce\buckaroo\gateways\Gateway;
 use craft\db\Migration;
 use craft\db\Query;
 
@@ -58,6 +58,5 @@ class Install extends Migration
                 ->update('{{%commerce_gateways}}', $values, ['id' => $gateway['id']])
                 ->execute();
         }
-
     }
 }

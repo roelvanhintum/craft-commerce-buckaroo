@@ -1,6 +1,6 @@
 <?php
 
-namespace born05\commerce\buckaroo\models\forms;
+namespace roelvanhintum\commerce\buckaroo\models\forms;
 
 use craft\commerce\models\payments\OffsitePaymentForm;
 

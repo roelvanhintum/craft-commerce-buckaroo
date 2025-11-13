@@ -1,9 +1,9 @@
 <?php
 
-namespace born05\commerce\buckaroo\gateways;
+namespace roelvanhintum\commerce\buckaroo\gateways;
 
-use born05\commerce\buckaroo\base\Gateway;
-use born05\commerce\buckaroo\models\forms\IdealPaymentForm;
+use roelvanhintum\commerce\buckaroo\base\Gateway;
+use roelvanhintum\commerce\buckaroo\models\forms\IdealPaymentForm;
 
 use Craft;
 use craft\commerce\models\payments\BasePaymentForm;
